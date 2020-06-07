@@ -8,6 +8,7 @@ Projeto desenvolvido Next Level Week #01, realizado pela [@Rockeseat](https://gi
 ---
 ## Descrição :book:
 O Ecoleta é uma aplicação com o objetivo de estabelecer uma conexão entre empresas que coletem resíduos orgânicos e inorgânicos com pessoas que precisem descartar esses resíduos.
+
 ---
 
 ## Tecnologias 🚀
